@@ -1,0 +1,1 @@
+taskset -c 0 stress -c 1 -t 200

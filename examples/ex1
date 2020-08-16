@@ -1,0 +1,1 @@
+sudo ./get_pmu_data ./bench1/stress_c1 skl::INT_MISC:RECOVERY_CYCLES:e=0:i=0:c=0:t=0:intx=0:intxcp=0:u=1:k=1:mg=0:mh=1 skl::CPU_CLK_THREAD_UNHALTED:REF_XCLK:e=0:i=0:c=0:t=1:intx=0:intxcp=0:u=1:k=1:mg=0:mh=1
